@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kay Macharia</h1>
 <h3 align="center">Building great things, one line of code at a time</h3>
-<img align="right" alt="coding girl" width="250" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
+<img align="right" alt="coding girl" width="200" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaymacharia&label=Profile%20views&color=0e75b6&style=flat" alt="kaymacharia" /> </p>
