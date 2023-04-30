@@ -1,3 +1,4 @@
+![logo](https://github.com/kaymacharia/kaymacharia/blob/main/github%20header.png?raw=true)
 <h1 align="center">Hi 👋, I'm Kay Macharia</h1>
 <h3 align="center">Building great things, one line of code at a time</h3>
 <img align="right" alt="coding girl" width="150" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
