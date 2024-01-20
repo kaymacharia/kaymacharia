@@ -1,4 +1,4 @@
-![logo](https://github.com/kaymacharia/kaymacharia/blob/main/github%20header.png?raw=true)
+![logo](https://github.com/kaymacharia/kaymacharia/assets/101395866/4f2c5b32-6393-4e7b-a893-b0b864bc42f4)
 <h1 align="center">Hi 👋, I'm Kay Macharia</h1>
 <h3 align="center">Building great things, one line of code at a time</h3>
 <img align="right" alt="coding girl" width="150" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
