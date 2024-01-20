@@ -5,17 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaymacharia&label=Profile%20views&color=0e75b6&style=flat" alt="kaymacharia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaymacharia" alt="kaymacharia" /></a> </p>
-
-- 🔭 I’m currently working on **An Angular and Bootstrap Project**
-
-- 🌱 I’m currently learning **Spring Framework,Angular Material,ALX Software Engineering**
-
-- 💬 Ask me about **Angular**
-
-- 📫 How to reach me **kaymacharia@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
