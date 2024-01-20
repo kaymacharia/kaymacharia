@@ -1,8 +1,6 @@
 ![logo](https://github.com/kaymacharia/kaymacharia/assets/101395866/4f2c5b32-6393-4e7b-a893-b0b864bc42f4)
 <h1 align="center">Hi 👋, I'm Kay Macharia</h1>
 <h3 align="center">Building great things, one line of code at a time</h3>
-<img align="right" alt="coding girl" width="150" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaymacharia&label=Profile%20views&color=0e75b6&style=flat" alt="kaymacharia" /> </p>
 
